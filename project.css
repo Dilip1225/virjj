@@ -1,0 +1,44 @@
+body{
+    background: url(463623.jpg) center/cover;
+}
+#logo{
+    height: 200px;
+    width: 200px;
+}
+#nav{
+    width: fit-content;
+    padding: 2px 140px 2px 20px;
+    border: 1px solid black;
+    border-radius: 40px;
+    color: goldenrod;
+    margin-left: 17%;
+}
+li{
+    color: white;
+    padding-left: 30px;
+}
+.lo, ul,li{
+    display: flex;
+}
+#col{
+    color: white;
+    background-color: goldenrod;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    margin: 0% 485px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+#col:hover{
+    color: green;
+    background-color: skyblue;
+}
+footer{
+    color: white;
+    background: black;
+    text-align: center;
+    padding: 10px;
+    margin-top: 250px;
+    font-size: 10px;
+}
